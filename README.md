@@ -15,7 +15,8 @@ There are also wet / dry controls, and the user can control the amount of distan
 
 ## Run the Plugin
 
-Download the plugin [here](http://melodiccode.com/projects/24). 
+Download the plugin [here](http://melodiccode.com/system/files_force/Pendulum%20Shaper.zip?download=1). 
+Read more about it [here](http://melodiccode.com/projects/24). 
 You will receive a zip folder with this readme as well as a folder labelled 'Mac'.
 
 Inside of the Mac folder you will see the three plugin formats available: VST, AU and AAX.
